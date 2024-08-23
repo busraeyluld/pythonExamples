@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="820a252e-544e-4354-9afa-75ab66c90ff7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/Exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/Icerigi_Olmayan_Fonksiyon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/Lambda_Fonk_Kisaltma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/Not_ortalamasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/Recursive_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/Restaurant_Uygulamasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/BTK_Akademi/print_drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/HangmanGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/MathGame1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/MathGame2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/WordGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/daily_plans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/firstproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/geometrikCisimler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/inheritance_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/input_exmp_and_lists_exmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/miuul_python_data/ForLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/miuul_python_data/MulakatSorusu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/miuul_python_data/MulakatSorusu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/miuul_python_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/mymodule_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/nesne_metotlari.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/rock_paper_scissors_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/salesperson_revenue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/sheep_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/busraeyluld/shopping_.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/com/busraeyluld/dictionaries.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/com/busraeyluld/geometrikCisimler.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/com/busraeyluld/miuul_python_data/ForLoop.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/com/busraeyluld/rock_paper_scissors_game.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gTKv9LZJurNbH3VnYQSvq1HDwD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Exercises.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HangmanGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HangmanGameMyself.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Icerigi_Olmayan_Fonksiyon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lambda_Fonk_Kisaltma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MathGame2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MulakatSorusu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MulakatSorusu2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Not_ortalamasi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recursive_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Restaurant_Uygulamasi.executor&quot;: &quot;Run&quot;,
+    &quot;Python._input_exmps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.daily_plans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.firstproject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generic_imports.executor&quot;: &quot;Run&quot;,
+    &quot;Python.geometrikCisimler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imports.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_exmp_and_lists_exmp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_game1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nesne_metotlari.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_drawing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salesperson_revenue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sheep_counter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping_.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com/busraeyluld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.firstproject">
+    <configuration name="firstproject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/busraeyluld/firstproject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="input_exmp_and_lists_exmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/busraeyluld/input_exmp_and_lists_exmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.firstproject" />
+        <item itemvalue="Python.input_exmp_and_lists_exmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="820a252e-544e-4354-9afa-75ab66c90ff7" name="Changes" comment="" />
+      <created>1715716356459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715716356459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
